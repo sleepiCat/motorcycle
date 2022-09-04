@@ -1,1 +1,2 @@
 file4
+changed 4file on bug4file branch
