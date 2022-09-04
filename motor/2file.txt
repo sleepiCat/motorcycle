@@ -1,1 +1,2 @@
 file2
+change in bug2 branch
